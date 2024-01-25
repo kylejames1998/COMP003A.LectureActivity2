@@ -116,7 +116,7 @@ namespace COMP003A.LectureActivity2
             inputAgeString = Console.ReadLine();
             inputAge = Convert.ToInt32(inputAgeString);
             Console.WriteLine($"Your age is {inputAge}");
-
+            //
             Console.WriteLine("*******************************************************************");
 
             /* math Operations + , - , * , / , % */
