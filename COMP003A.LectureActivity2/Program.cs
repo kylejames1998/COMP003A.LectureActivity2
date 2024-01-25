@@ -175,7 +175,8 @@ namespace COMP003A.LectureActivity2
             Console.ForegroundColor = ConsoleColor.Black; // changes text to black
             Console.Title = "Hello World!"; // changes console title
 
-            Console.Beep(440, 1000); // computer beeps
+            Console.Beep(440, 1000); // computer beepss
+            // dasdas
 
 
 
